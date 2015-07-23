@@ -1,0 +1,10 @@
+int attr indicator_spacing 0x7f010000
+int attr indicator_type 0x7f010001
+int drawable circle_indicator_solid 0x7f020000
+int drawable circle_indicator_stroke 0x7f020001
+int id circle 0x7f040000
+int id fraction 0x7f040001
+int string app_name 0x7f030000
+int[] styleable CirclePageIndicator { 0x7f010000, 0x7f010001 }
+int styleable CirclePageIndicator_indicator_spacing 0
+int styleable CirclePageIndicator_indicator_type 1
