@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.drawee.view.SimpleDraweeView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/pic"
+    fresco:actualImageScaleType="fitCenter"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
