@@ -9,8 +9,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Sample" />
             <option value="$PROJECT_DIR$/SlidePageIndicator" />
+<<<<<<< HEAD
             <option value="$PROJECT_DIR$/app" />
+=======
+            <option value="$PROJECT_DIR$/SlidePager" />
+>>>>>>> upstream/master
           </set>
         </option>
       </GradleProjectSettings>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SlidePager</string>
+    <string name="action_indicator_circle">CircleIndicator</string>
+    <string name="action_indicator_fraction">FractionIndicator</string>
+</resources>
