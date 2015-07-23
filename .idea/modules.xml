@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ScreenSlidePager.iml" filepath="$PROJECT_DIR$/ScreenSlidePager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidScreenSlidePager.iml" filepath="$PROJECT_DIR$/AndroidScreenSlidePager.iml" />
       <module fileurl="file://$PROJECT_DIR$/SlidePageIndicator/SlidePageIndicator.iml" filepath="$PROJECT_DIR$/SlidePageIndicator/SlidePageIndicator.iml" />
       <module fileurl="file://$PROJECT_DIR$/screenslidepager/screenslidepager.iml" filepath="$PROJECT_DIR$/screenslidepager/screenslidepager.iml" />
     </modules>
