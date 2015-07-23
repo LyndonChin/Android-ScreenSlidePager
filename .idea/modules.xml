@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/AndroidScreenSlidePager.iml" filepath="$PROJECT_DIR$/AndroidScreenSlidePager.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/Android-ScreenSlidePager.iml" filepath="$PROJECT_DIR$/Android-ScreenSlidePager.iml" />
->>>>>>> parent of 01fb6f7... refactor project structure
       <module fileurl="file://$PROJECT_DIR$/SlidePageIndicator/SlidePageIndicator.iml" filepath="$PROJECT_DIR$/SlidePageIndicator/SlidePageIndicator.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
