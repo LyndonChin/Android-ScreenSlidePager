@@ -137,13 +137,10 @@ public class CirclePageIndicator extends LinearLayout implements ViewPager.OnPag
         if (mIndicatorTypeChanged || mActivePosition != position) {
             mIndicatorTypeChanged = false;
             if (mIndicatorType == IndicatorType.CIRCLE) {
-                if (mActivePosition == -1){
-                    ((ImageView) getChildAt(position)).setImageResource(R.drawable.circle_indicator_solid);
-                    mActivePosition = position;
-                    return;
-                }
-                ((ImageView) getChildAt(mActivePosition)).setImageResource(R.drawable.circle_indicator_stroke);
-                ((ImageView) getChildAt(position)).setImageResource(R.drawable.circle_indicator_solid);
+                ((ImageView) getChildAt(mActivePosition))
+                        .setImageResource(R.drawable.circle_indicator_stroke);
+                ((ImageView) getChildAt(position))
+                        .setImageResource(R.drawable.circle_indicator_solid);
             } else if (mIndicatorType == IndicatorType.FRACTION) {
                 TextView textView = (TextView) getChildAt(0);
                 //noinspection RedundantCast
